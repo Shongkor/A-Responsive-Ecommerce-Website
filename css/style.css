@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+.lolo{
+    margin-left:96%;
+}
 
 .clear {
     clear: both;
@@ -74,9 +77,6 @@ footer ul li a{
     font-weight: 500;
 }
 
-.visit-pages{
-    
-}
 /* Extra end */
 
 
